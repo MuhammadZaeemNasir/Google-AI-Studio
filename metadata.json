@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Pro Chat",
+  "description": "A powerful, real-time chat interface powered by the Gemini 3.0 Pro model.",
+  "requestFramePermissions": []
+}
